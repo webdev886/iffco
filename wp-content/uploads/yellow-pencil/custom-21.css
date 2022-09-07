@@ -1,0 +1,101 @@
+/*
+
+    The following CSS codes are created by the YellowPencil plugin.
+    https://yellowpencil.waspthemes.com/
+
+
+    T A B L E   O F   C O N T E N T S
+    ........................................................................
+
+    01. "Home" Page
+    02. "Bakery" Page
+    03. "Confectionery" Page
+    04. "Plant Based Food" Page
+    05. "Culinary and Savory" Page
+    06. "Non Food Products" Page
+    07. "Cookies &#038; Biscuit Solutions" Page
+
+*/
+
+
+
+/*-----------------------------------------------*/
+/*  "Home" Page                                  */
+/*-----------------------------------------------*/
+body.page-id-1421 #page .footer-wrap{
+	display:none;
+}
+
+body.page-id-1421 #page .section .bigger-margin{
+	display:none;
+}
+
+body.page-id-1421 .vc_custom_1456299314217 .wpb_wrapper h6{
+	font-size:14px;
+}
+
+body.page-id-1421 .call-to-action-3 .nine .ion-ios-book-outline{
+	display:none;
+}
+
+@media only screen and (max-width: 600px){
+
+	body.page-id-1421 #page nav{
+	display:none;
+	}
+
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Bakery" Page                                */
+/*-----------------------------------------------*/
+body.page-id-3027 .smaller-blog-wrapper .sidebars .sidebar-wrap{
+	display:none;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Confectionery" Page                         */
+/*-----------------------------------------------*/
+body.page-id-3377 .smaller-blog-wrapper .sidebars .sidebar-wrap{
+	display:none;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Plant Based Food" Page                      */
+/*-----------------------------------------------*/
+body.page-id-3390 .smaller-blog-wrapper .sidebars .sidebar-wrap{
+	display:none;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Culinary and Savory" Page                   */
+/*-----------------------------------------------*/
+body.page-id-3399 .smaller-blog-wrapper .sidebars .sidebar-wrap{
+	display:none;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Non Food Products" Page                     */
+/*-----------------------------------------------*/
+body.page-id-3417 .smaller-blog-wrapper .sidebars .sidebar-wrap{
+	display:none;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Cookies &#038; Biscuit Solutions" Page      */
+/*-----------------------------------------------*/
+body.page-id-3350 #page .footer-wrap{
+	display:none;
+}

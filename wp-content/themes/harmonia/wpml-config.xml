@@ -1,0 +1,13 @@
+<wpml-config>
+    <admin-texts>
+        <key name="harmonia_option">
+            <key name="menu-mob" />
+            <key name="header_text" />
+            <key name="404_title" />
+            <key name="404_content" />
+            <key name="footer_text" />
+            <key name="cs_title" />
+            <key name="cs_stitle" />
+        </key>
+    </admin-texts>
+</wpml-config>

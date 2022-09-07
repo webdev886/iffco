@@ -1,0 +1,1091 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-19 09:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:21
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:22
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:28
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:40
+msgid "leave a comment"
+msgstr ""
+
+#: comments.php:42
+msgid "Name *"
+msgstr ""
+
+#: comments.php:43
+msgid "Email *"
+msgstr ""
+
+#: comments.php:44
+msgid "Website"
+msgstr ""
+
+#: comments.php:46
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:47
+msgid "POST COMMENT"
+msgstr ""
+
+#: content-audio.php:15 content-gallery.php:19 content-image.php:15
+#: content-quote.php:8 content-video.php:9 content.php:9 single.php:94
+msgid "by"
+msgstr ""
+
+#: content-audio.php:18 content-gallery.php:22 content-image.php:18
+#: content-quote.php:11 content-video.php:12 content.php:12
+msgid "Read More"
+msgstr ""
+
+#: content-audio.php:19 content-gallery.php:23 content-image.php:19
+#: content-quote.php:12 content-video.php:13 content.php:13
+msgid "0 comment"
+msgstr ""
+
+#: content-audio.php:19 content-gallery.php:23 content-image.php:19
+#: content-quote.php:12 content-video.php:13 content.php:13
+msgid "1 comment"
+msgstr ""
+
+#: content-audio.php:19 content-gallery.php:23 content-image.php:19
+#: content-quote.php:12 content-video.php:13 content.php:13
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: functions.php:67
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:68
+msgid "One Page Menu"
+msgstr ""
+
+#: functions.php:69
+msgid "Landing Page Menu"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Lora, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:85
+msgctxt "Open Sans: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:91
+msgctxt "Dosis: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:97
+msgctxt "Tangerine: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:98
+msgctxt "Inconsolata: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:99
+msgctxt "Playfair Display: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:214
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:216 functions.php:225
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#: functions.php:223
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:232
+msgid "Footer One Widget Area"
+msgstr ""
+
+#: functions.php:234 functions.php:244 functions.php:254 functions.php:264
+msgid "Footer Widget that appears on the Footer."
+msgstr ""
+
+#: functions.php:242
+msgid "Footer Two Widget Area"
+msgstr ""
+
+#: functions.php:252
+msgid "Footer Three Widget Area"
+msgstr ""
+
+#: functions.php:262
+msgid "Footer Fourth Widget Area"
+msgstr ""
+
+#: functions.php:302
+msgid "Container Class"
+msgstr ""
+
+#: functions.php:309
+msgid "Fullwidth"
+msgstr ""
+
+#: functions.php:312
+msgid "No"
+msgstr ""
+
+#: functions.php:313
+msgid "Yes"
+msgstr ""
+
+#: functions.php:315
+msgid "Select Fullwidth or not, Default: No fullwidth"
+msgstr ""
+
+#: functions.php:321
+msgid "Use Background Image Parallax"
+msgstr ""
+
+#: functions.php:324
+msgid "If checked columns will use background parallax."
+msgstr ""
+
+#: functions.php:329 framework/meta-boxes.php:34
+msgid "Image"
+msgstr ""
+
+#: functions.php:332
+msgid "Select image from media library."
+msgstr ""
+
+#: header-landing.php:86 header-landing.php:123 header-landing.php:279
+#: header-onepage.php:87 header-onepage.php:127 header-onepage.php:284
+#: header.php:71 framework/headers/header-2.php:62
+#: framework/headers/header-3.php:25
+msgid "Search"
+msgstr ""
+
+#: header-landing.php:87 header-landing.php:124 header-landing.php:280
+#: header-onepage.php:88 header-onepage.php:128 header-onepage.php:285
+#: header.php:72 framework/headers/header-2.php:63
+#: framework/headers/header-3.php:26
+msgid "Go"
+msgstr ""
+
+#: header.php:85
+msgid "(0)"
+msgstr ""
+
+#: search.php:10
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: search.php:34
+msgid "Nothing Found Here!"
+msgstr ""
+
+#: single-portfolio.php:33 page-templates/template-canvas.php:13
+#: page-templates/template-fullwidth.php:34
+#: page-templates/template-home-split.php:15
+#: page-templates/template-landing.php:15
+#: page-templates/template-onepage.php:15
+#: page-templates/template-portfolio-with-title.php:34
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+#: single.php:111
+msgid "- comment ( 0 )"
+msgstr ""
+
+#: single.php:111
+msgid "- comment ( 1 )"
+msgstr ""
+
+#: single.php:111
+msgid "- comments ( % )"
+msgstr ""
+
+#: taxonomy-categories.php:9
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: framework/menu-walker.php:158
+msgid "Hot"
+msgstr ""
+
+#: framework/menu-walker.php:160
+msgid "New"
+msgstr ""
+
+#: framework/meta-boxes.php:20
+msgid "Format Details"
+msgstr ""
+
+#: framework/meta-boxes.php:48
+msgid "Gallery"
+msgstr ""
+
+#: framework/meta-boxes.php:60
+msgid "Quote"
+msgstr ""
+
+#: framework/meta-boxes.php:76
+msgid "Audio"
+msgstr ""
+
+#: framework/meta-boxes.php:94
+msgid "Video"
+msgstr ""
+
+#: framework/meta-boxes.php:116
+msgid "Portfolio Format Details"
+msgstr ""
+
+#: framework/meta-boxes.php:123 framework/meta-boxes.php:170
+msgid "Background Image Page Sub-header"
+msgstr ""
+
+#: framework/meta-boxes.php:133
+msgid "Text Align In Slide"
+msgstr ""
+
+#: framework/meta-boxes.php:140
+msgid "Text Align"
+msgstr ""
+
+#: framework/meta-boxes.php:146
+msgid "Big Text Opacity"
+msgstr ""
+
+#: framework/meta-boxes.php:158
+msgid "Page Details"
+msgstr ""
+
+#: framework/meta-boxes.php:176
+msgid "Page Subtitle"
+msgstr ""
+
+#: framework/nav-menus.php:44 framework/nav-menus.php:79
+msgid "Mega Menu"
+msgstr ""
+
+#: framework/nav-menus.php:45
+msgid "Mega Menu Width"
+msgstr ""
+
+#: framework/nav-menus.php:46
+msgid "Column Width"
+msgstr ""
+
+#: framework/nav-menus.php:47
+msgid "Content"
+msgstr ""
+
+#: framework/nav-menus.php:48
+msgid "Hide Text"
+msgstr ""
+
+#: framework/nav-menus.php:49 framework/sample-configs.php:576
+#: framework/sample-configs.php:577
+msgid "Background Image"
+msgstr ""
+
+#: framework/nav-menus.php:50
+msgid "Horizontal Position"
+msgstr ""
+
+#: framework/nav-menus.php:51
+msgid "Vertical Position"
+msgstr ""
+
+#: framework/nav-menus.php:52 framework/nav-menus.php:224
+msgid "Repeat"
+msgstr ""
+
+#: framework/nav-menus.php:53
+msgid "Size"
+msgstr ""
+
+#: framework/nav-menus.php:80
+msgid "Save Menu"
+msgstr ""
+
+#: framework/nav-menus.php:186
+msgid "Upload Image"
+msgstr ""
+
+#: framework/nav-menus.php:189
+msgid "Remove Image"
+msgstr ""
+
+#: framework/nav-menus.php:198
+msgid "Left"
+msgstr ""
+
+#: framework/nav-menus.php:200
+msgid "Right"
+msgstr ""
+
+#: framework/nav-menus.php:202 framework/nav-menus.php:214
+msgid "Center"
+msgstr ""
+
+#: framework/nav-menus.php:210
+msgid "Top"
+msgstr ""
+
+#: framework/nav-menus.php:212
+msgid "Bottom"
+msgstr ""
+
+#: framework/nav-menus.php:222
+msgid "No Repeat"
+msgstr ""
+
+#: framework/nav-menus.php:226
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: framework/nav-menus.php:228
+msgid "Repeat Vertically"
+msgstr ""
+
+#: framework/nav-menus.php:235
+msgid "Normal"
+msgstr ""
+
+#: framework/nav-menus.php:237
+msgid "Contain"
+msgstr ""
+
+#: framework/nav-menus.php:239
+msgid "Cover"
+msgstr ""
+
+#: framework/nav-menus.php:250
+msgid "HTML and Shortcodes are allowed"
+msgstr ""
+
+#: framework/plugin-requires.php:8
+msgid "Meta Box"
+msgstr ""
+
+#: framework/plugin-requires.php:15
+msgid "Redux Framework"
+msgstr ""
+
+#: framework/plugin-requires.php:22
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/plugin-requires.php:27
+msgid "Woocommerce"
+msgstr ""
+
+#: framework/plugin-requires.php:34
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: framework/plugin-requires.php:46
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework/plugin-requires.php:58
+msgid "OT Themes One Click Import"
+msgstr ""
+
+#: framework/plugin-requires.php:64
+msgid "OT Portfolios"
+msgstr ""
+
+#: framework/plugin-requires.php:70
+msgid "OT Slider Text"
+msgstr ""
+
+#: framework/plugin-requires.php:76
+msgid "OT Testimonials"
+msgstr ""
+
+#: framework/plugin-requires.php:82
+msgid "OT Visual Composer"
+msgstr ""
+
+#: framework/plugin-requires.php:88
+msgid "Newsletter"
+msgstr ""
+
+#: framework/sample-configs.php:87
+msgid "Theme Information 1"
+msgstr ""
+
+#: framework/sample-configs.php:88 framework/sample-configs.php:93
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: framework/sample-configs.php:92
+msgid "Theme Information 2"
+msgstr ""
+
+#: framework/sample-configs.php:99
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: framework/sample-configs.php:117
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: framework/sample-configs.php:122
+msgid "Preload Off?"
+msgstr ""
+
+#: framework/sample-configs.php:123
+msgid ""
+"If you do not want to use the preloader when load page, just turn it off."
+msgstr ""
+
+#: framework/sample-configs.php:129
+msgid "Menu Button Text"
+msgstr ""
+
+#: framework/sample-configs.php:131
+msgid "Enter menu button title on mobile version."
+msgstr ""
+
+#: framework/sample-configs.php:139
+msgid "Logo & Favicon Settings"
+msgstr ""
+
+#: framework/sample-configs.php:145
+msgid "Logo"
+msgstr ""
+
+#: framework/sample-configs.php:148
+msgid "Upload your logo image."
+msgstr ""
+
+#: framework/sample-configs.php:149
+msgid "Recommended logo size: 195x41"
+msgstr ""
+
+#: framework/sample-configs.php:154
+msgid "Please fixed Width & Height for Logo static."
+msgstr ""
+
+#: framework/sample-configs.php:160
+msgid "Fix Width Logo static, default: 160"
+msgstr ""
+
+#: framework/sample-configs.php:161 framework/sample-configs.php:175
+#: framework/sample-configs.php:187
+msgid "Input Width logo, remember enter number."
+msgstr ""
+
+#: framework/sample-configs.php:167
+msgid "Fix Height Logo static, default: 50"
+msgstr ""
+
+#: framework/sample-configs.php:168 framework/sample-configs.php:194
+msgid "Input Height Logo, remember enter number."
+msgstr ""
+
+#: framework/sample-configs.php:174
+msgid "Fix margin Top for Logo Scroll, default: 10"
+msgstr ""
+
+#: framework/sample-configs.php:180
+msgid "Please fixed Width & Height for Logo scroll."
+msgstr ""
+
+#: framework/sample-configs.php:186
+msgid "Fix Width Logo Scroll, default: 150"
+msgstr ""
+
+#: framework/sample-configs.php:193
+msgid "Fix Height Logo Scroll, default: 40"
+msgstr ""
+
+#: framework/sample-configs.php:201
+msgid "Favicon"
+msgstr ""
+
+#: framework/sample-configs.php:204
+msgid "Upload your favicon icon."
+msgstr ""
+
+#: framework/sample-configs.php:205
+msgid "Recommended favicon size: 32x32"
+msgstr ""
+
+#: framework/sample-configs.php:212
+msgid "Apple Touch Icon 57x57"
+msgstr ""
+
+#: framework/sample-configs.php:215
+msgid "Upload your Apple touch icon 57x57."
+msgstr ""
+
+#: framework/sample-configs.php:223
+msgid "Apple Touch Icon 72x72"
+msgstr ""
+
+#: framework/sample-configs.php:226
+msgid "Upload your Apple touch icon 72x72."
+msgstr ""
+
+#: framework/sample-configs.php:234
+msgid "Apple Touch Icon 114x114"
+msgstr ""
+
+#: framework/sample-configs.php:237
+msgid "Upload your Apple touch icon 114x114."
+msgstr ""
+
+#: framework/sample-configs.php:246
+msgid "Header Settings"
+msgstr ""
+
+#: framework/sample-configs.php:251 framework/sample-configs.php:252
+msgid "Header layout"
+msgstr ""
+
+#: framework/sample-configs.php:253
+msgid "Header layout : select header style."
+msgstr ""
+
+#: framework/sample-configs.php:265
+msgid "Use Search In Menu"
+msgstr ""
+
+#: framework/sample-configs.php:266
+msgid ""
+"If you do not want to use the search box on the header, just turn it off."
+msgstr ""
+
+#: framework/sample-configs.php:272
+msgid "Header Static Background Color"
+msgstr ""
+
+#: framework/sample-configs.php:273
+msgid ""
+"Pick the header static background color for the theme (default: rgba(20,20,"
+"20,0.9))."
+msgstr ""
+
+#: framework/sample-configs.php:280
+msgid "Header Scroll Background Color"
+msgstr ""
+
+#: framework/sample-configs.php:281
+msgid ""
+"Pick the header scroll background color for the theme (default: rgba(20,20,"
+"20,0.9))."
+msgstr ""
+
+#: framework/sample-configs.php:288
+msgid "Header Text Color"
+msgstr ""
+
+#: framework/sample-configs.php:289
+msgid "Pick the header text color for the theme (default: #fff)."
+msgstr ""
+
+#: framework/sample-configs.php:296
+msgid "Header Pushing Text"
+msgstr ""
+
+#: framework/sample-configs.php:297
+msgid "Infomation Text"
+msgstr ""
+
+#: framework/sample-configs.php:304
+msgid "Typography"
+msgstr ""
+
+#: framework/sample-configs.php:310
+msgid "Heading 1"
+msgstr ""
+
+#: framework/sample-configs.php:311
+msgid "Specify the heading 1 font properties."
+msgstr ""
+
+#: framework/sample-configs.php:329
+msgid "Heading 2"
+msgstr ""
+
+#: framework/sample-configs.php:330
+msgid "Specify the heading 2 font properties."
+msgstr ""
+
+#: framework/sample-configs.php:348
+msgid "Heading 3"
+msgstr ""
+
+#: framework/sample-configs.php:349
+msgid "Specify the heading 3 font properties."
+msgstr ""
+
+#: framework/sample-configs.php:367
+msgid "Heading 4"
+msgstr ""
+
+#: framework/sample-configs.php:368
+msgid "Specify the heading 4 font properties."
+msgstr ""
+
+#: framework/sample-configs.php:386
+msgid "Heading 5"
+msgstr ""
+
+#: framework/sample-configs.php:387
+msgid "Specify the heading 5 font properties."
+msgstr ""
+
+#: framework/sample-configs.php:405
+msgid "Heading 6"
+msgstr ""
+
+#: framework/sample-configs.php:406
+msgid "Specify the heading 6 font properties."
+msgstr ""
+
+#: framework/sample-configs.php:425
+msgid "Menu item"
+msgstr ""
+
+#: framework/sample-configs.php:426
+msgid "Specify the Menu item font properties."
+msgstr ""
+
+#: framework/sample-configs.php:444
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/sample-configs.php:449 framework/sample-configs.php:450
+msgid "Blog layout"
+msgstr ""
+
+#: framework/sample-configs.php:451
+msgid "Blog layout : select style Blog page"
+msgstr ""
+
+#: framework/sample-configs.php:462 framework/sample-configs.php:464
+msgid "Blog custom excerpt lenght"
+msgstr ""
+
+#: framework/sample-configs.php:463
+msgid "Input Blog custom excerpt lenght"
+msgstr ""
+
+#: framework/sample-configs.php:471
+msgid "Portfolio Settings"
+msgstr ""
+
+#: framework/sample-configs.php:476
+msgid "Single Portfolio layout"
+msgstr ""
+
+#: framework/sample-configs.php:477
+msgid "Single portfolio layout"
+msgstr ""
+
+#: framework/sample-configs.php:489
+msgid "404 Settings"
+msgstr ""
+
+#: framework/sample-configs.php:495
+msgid "Background 404"
+msgstr ""
+
+#: framework/sample-configs.php:498
+msgid "Upload your background image."
+msgstr ""
+
+#: framework/sample-configs.php:499
+msgid "Recommended size 1920x1000"
+msgstr ""
+
+#: framework/sample-configs.php:505
+msgid "404 Title"
+msgstr ""
+
+#: framework/sample-configs.php:506
+msgid "Input 404 Title"
+msgstr ""
+
+#: framework/sample-configs.php:507
+msgid "Enter your 404 title."
+msgstr ""
+
+#: framework/sample-configs.php:513
+msgid "404 Content"
+msgstr ""
+
+#: framework/sample-configs.php:514
+msgid "Enter 404 Content"
+msgstr ""
+
+#: framework/sample-configs.php:515
+msgid "Enter your 404 content."
+msgstr ""
+
+#: framework/sample-configs.php:522
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/sample-configs.php:527
+msgid "Footer Text"
+msgstr ""
+
+#: framework/sample-configs.php:528
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/sample-configs.php:535 framework/sample-configs.php:539
+msgid "Background Footer"
+msgstr ""
+
+#: framework/sample-configs.php:538
+msgid "Background Image Footer"
+msgstr ""
+
+#: framework/sample-configs.php:545
+msgid "Footer Background Color"
+msgstr ""
+
+#: framework/sample-configs.php:546
+msgid ""
+"If dont use Background Image,Pick the Footer Text color for the theme "
+"(default: Transparent)."
+msgstr ""
+
+#: framework/sample-configs.php:553
+msgid "Footer Bottom Text Color"
+msgstr ""
+
+#: framework/sample-configs.php:554
+msgid "Pick the Footer Text color for the theme (default: #212121)."
+msgstr ""
+
+#: framework/sample-configs.php:562
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: framework/sample-configs.php:563
+msgid ""
+"Pick the Footer Bottom Background color for the theme (default: #f2f2f2)."
+msgstr ""
+
+#: framework/sample-configs.php:571
+msgid "Coming Soon Settings"
+msgstr ""
+
+#: framework/sample-configs.php:578
+msgid "Use For Coming Soon Page"
+msgstr ""
+
+#: framework/sample-configs.php:584
+msgid "Date Option"
+msgstr ""
+
+#: framework/sample-configs.php:585
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: framework/sample-configs.php:586
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: framework/sample-configs.php:593 framework/sample-configs.php:594
+#: framework/sample-configs.php:595
+msgid "Coming Soon Title"
+msgstr ""
+
+#: framework/sample-configs.php:601 framework/sample-configs.php:602
+#: framework/sample-configs.php:603
+msgid "Coming Soon Subtitle"
+msgstr ""
+
+#: framework/sample-configs.php:610
+msgid "Styling Options"
+msgstr ""
+
+#: framework/sample-configs.php:616 framework/sample-configs.php:619
+#: framework/sample-configs.php:620
+msgid "Background Header All Pages"
+msgstr ""
+
+#: framework/sample-configs.php:626
+msgid "Theme Main Color"
+msgstr ""
+
+#: framework/sample-configs.php:627
+msgid "Pick the main color for the theme (default: #e67e22)."
+msgstr ""
+
+#: framework/sample-configs.php:636
+msgid "Body Font"
+msgstr ""
+
+#: framework/sample-configs.php:637
+msgid "Specify the body font properties."
+msgstr ""
+
+#: framework/sample-configs.php:654
+msgid "CSS Code"
+msgstr ""
+
+#: framework/sample-configs.php:655
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: framework/template-tags.php:84
+msgid "To search type and hit enter"
+msgstr ""
+
+#: framework/template-tags.php:101
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/template-tags.php:106
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: framework/template-tags.php:114
+msgid "Home"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Canvas"
+msgstr ""
+
+#. Name of the template
+msgid "Coming Soon Page"
+msgstr ""
+
+#: page-templates/template-coming-soon-page.php:47
+#: page-templates/template-coming-soon-page.php:152
+msgid "days"
+msgstr ""
+
+#: page-templates/template-coming-soon-page.php:52
+#: page-templates/template-coming-soon-page.php:153
+msgid "hours"
+msgstr ""
+
+#: page-templates/template-coming-soon-page.php:57
+#: page-templates/template-coming-soon-page.php:154
+msgid "minutes"
+msgstr ""
+
+#: page-templates/template-coming-soon-page.php:62
+#: page-templates/template-coming-soon-page.php:155
+msgid "seconds"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Home Split"
+msgstr ""
+
+#. Name of the template
+msgid "Landing Page"
+msgstr ""
+
+#. Name of the template
+msgid "One Page"
+msgstr ""
+
+#. Name of the template
+msgid "Portfolio With Title"
+msgstr ""
+
+#. Name of the template
+msgid "Template Shop"
+msgstr ""
+
+#: woocommerce/archive-product.php:38
+msgid "Shop"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: framework/bfi_thumb-master/BFI_Thumb.php:120
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: framework/bfi_thumb-master/BFI_Thumb.php:235
+msgid "Image rotate failed."
+msgstr ""
+
+#: framework/bfi_thumb-master/BFI_Thumb.php:257
+msgid "Image opacity change failed."
+msgstr ""
+
+#: framework/bfi_thumb-master/BFI_Thumb.php:335
+msgid "Image color change failed."
+msgstr ""
+
+#: framework/bfi_thumb-master/BFI_Thumb.php:351
+msgid "Image grayscale failed."
+msgstr ""
+
+#: framework/bfi_thumb-master/BFI_Thumb.php:367
+msgid "Image negate failed."
+msgstr ""
+
+#: framework/widget/flickr.php:21
+msgid "Displays your latest Flickr feed."
+msgstr ""
+
+#: framework/widget/flickr.php:49
+msgid "Flickr"
+msgstr ""
+
+#: framework/widget/flickr.php:173
+msgid "Flickr Name"
+msgstr ""
+
+#: framework/widget/flickr.php:193
+msgid "Flickr Type:"
+msgstr ""
+
+#: framework/widget/flickr.php:201
+msgid "user"
+msgstr ""
+
+#: framework/widget/flickr.php:205
+msgid "group"
+msgstr ""
+
+#: framework/widget/flickr.php:229
+msgid "Flickr ID"
+msgstr ""
+
+#: framework/widget/flickr.php:253
+msgid "Number of photos:"
+msgstr ""
+
+#. Widget name will appear in UI
+#: framework/widget/recentpost.php:33 framework/widget/recentpost.php:81
+msgid "Latest News"
+msgstr ""
+
+#: framework/widget/recentpost.php:45
+msgid "Latest News Harmonia"
+msgstr ""
+
+#: framework/widget/recentpost.php:193
+msgid "Title:"
+msgstr ""
+
+#: framework/widget/recentpost.php:201
+msgid "Show date time"
+msgstr ""
+
+#: framework/widget/recentpost.php:205
+msgid "Number of posts to show:"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:60
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:79
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:87
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:92
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:93
+msgid "Checkout"
+msgstr ""
+
+#. Name of the theme
+msgid "Harmonia"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Harmonia is a Modern and Creative premium WordPress Theme . Design Theme is "
+"made in a beautiful style. It is suitable for Personal Portfolio, Creative "
+"Agency, Designer Portfolio, Illustrator Portfolio, Photographer Portfolio "
+"and more.Theme has a universal design, it thought every detail and animation "
+"effect. Its just as easy to customize to fit your needs, replace images and "
+"texts."
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.oceanthemes.net/harmonia-preview/"
+msgstr ""
+
+#. Author of the theme
+msgid "OceanThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://oceanthemes.net/"
+msgstr ""

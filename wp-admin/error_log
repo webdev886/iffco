@@ -1,0 +1,85 @@
+[26-Jul-2021 22:36:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-image-editor.php on line 535
+[26-Jul-2021 16:54:29 America/Boise] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[29-Jul-2021 11:39:19 UTC] PHP Warning:  Use of undefined constant dark - assumed 'dark' (this will throw an Error in a future version of PHP) in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/ot_composer/functions/shortcodes.php on line 2439
+[29-Jul-2021 11:39:19 UTC] PHP Warning:  Use of undefined constant dark - assumed 'dark' (this will throw an Error in a future version of PHP) in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/ot_composer/functions/shortcodes.php on line 2439
+[29-Jul-2021 11:39:19 UTC] PHP Warning:  Use of undefined constant dark - assumed 'dark' (this will throw an Error in a future version of PHP) in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/ot_composer/functions/shortcodes.php on line 2439
+[29-Jul-2021 11:39:19 UTC] PHP Warning:  Use of undefined constant dark - assumed 'dark' (this will throw an Error in a future version of PHP) in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/ot_composer/functions/shortcodes.php on line 2439
+[29-Jul-2021 11:39:19 UTC] PHP Warning:  Use of undefined constant dark - assumed 'dark' (this will throw an Error in a future version of PHP) in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/ot_composer/functions/shortcodes.php on line 2439
+[29-Jul-2021 11:39:19 UTC] PHP Warning:  Use of undefined constant dark - assumed 'dark' (this will throw an Error in a future version of PHP) in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/ot_composer/functions/shortcodes.php on line 2439
+[29-Jul-2021 11:41:38 UTC] PHP Warning:  Use of undefined constant dark - assumed 'dark' (this will throw an Error in a future version of PHP) in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/ot_composer/functions/shortcodes.php on line 2439
+[29-Jul-2021 11:41:38 UTC] PHP Warning:  Use of undefined constant dark - assumed 'dark' (this will throw an Error in a future version of PHP) in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/ot_composer/functions/shortcodes.php on line 2439
+[29-Jul-2021 11:41:38 UTC] PHP Warning:  Use of undefined constant dark - assumed 'dark' (this will throw an Error in a future version of PHP) in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/ot_composer/functions/shortcodes.php on line 2439
+[02-Aug-2021 17:39:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/ot_composer/functions/shortcodes.php on line 1103
+[02-Aug-2021 17:39:19 UTC] PHP Warning:  Use of undefined constant dark - assumed 'dark' (this will throw an Error in a future version of PHP) in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/ot_composer/functions/shortcodes.php on line 2439
+[15-Sep-2021 13:52:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ReduxFramework::redux_parse_str() in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/quadmenu/includes/themes.php:152
+Stack trace:
+#0 /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-hook.php(303): Quadmenu_Themes->themes_delete('')
+#1 /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/kalimatg/public_html/demo/iffco3/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/kalimatg/public_html/demo/iffco3/wp-admin/admin-ajax.php(187): do_action('wp_ajax_quadmen...')
+#4 {main}
+  thrown in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/quadmenu/includes/themes.php on line 152
+[15-Sep-2021 13:53:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ReduxFramework::redux_parse_str() in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/quadmenu/includes/themes.php:152
+Stack trace:
+#0 /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-hook.php(303): Quadmenu_Themes->themes_delete('')
+#1 /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/kalimatg/public_html/demo/iffco3/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/kalimatg/public_html/demo/iffco3/wp-admin/admin-ajax.php(187): do_action('wp_ajax_quadmen...')
+#4 {main}
+  thrown in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/quadmenu/includes/themes.php on line 152
+[15-Sep-2021 13:55:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ReduxFramework::redux_parse_str() in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/quadmenu/includes/themes.php:152
+Stack trace:
+#0 /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-hook.php(303): Quadmenu_Themes->themes_delete('')
+#1 /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/kalimatg/public_html/demo/iffco3/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/kalimatg/public_html/demo/iffco3/wp-admin/admin-ajax.php(187): do_action('wp_ajax_quadmen...')
+#4 {main}
+  thrown in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/quadmenu/includes/themes.php on line 152
+[15-Sep-2021 13:57:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ReduxFramework::redux_parse_str() in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/quadmenu/includes/themes.php:152
+Stack trace:
+#0 /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-hook.php(303): Quadmenu_Themes->themes_delete('')
+#1 /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/kalimatg/public_html/demo/iffco3/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/kalimatg/public_html/demo/iffco3/wp-admin/admin-ajax.php(187): do_action('wp_ajax_quadmen...')
+#4 {main}
+  thrown in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/quadmenu/includes/themes.php on line 152
+[15-Sep-2021 13:57:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ReduxFramework::redux_parse_str() in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/quadmenu/includes/themes.php:152
+Stack trace:
+#0 /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-hook.php(303): Quadmenu_Themes->themes_delete('')
+#1 /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/kalimatg/public_html/demo/iffco3/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/kalimatg/public_html/demo/iffco3/wp-admin/admin-ajax.php(187): do_action('wp_ajax_quadmen...')
+#4 {main}
+  thrown in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/quadmenu/includes/themes.php on line 152
+[15-Sep-2021 13:58:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ReduxFramework::redux_parse_str() in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/quadmenu/includes/themes.php:152
+Stack trace:
+#0 /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-hook.php(303): Quadmenu_Themes->themes_delete('')
+#1 /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/kalimatg/public_html/demo/iffco3/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/kalimatg/public_html/demo/iffco3/wp-admin/admin-ajax.php(187): do_action('wp_ajax_quadmen...')
+#4 {main}
+  thrown in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/quadmenu/includes/themes.php on line 152
+[15-Sep-2021 14:00:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ReduxFramework::redux_parse_str() in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/quadmenu/includes/themes.php:152
+Stack trace:
+#0 /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-hook.php(303): Quadmenu_Themes->themes_delete('')
+#1 /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/kalimatg/public_html/demo/iffco3/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/kalimatg/public_html/demo/iffco3/wp-admin/admin-ajax.php(187): do_action('wp_ajax_quadmen...')
+#4 {main}
+  thrown in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/quadmenu/includes/themes.php on line 152
+[15-Sep-2021 14:05:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ReduxFramework::redux_parse_str() in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/quadmenu/includes/themes.php:152
+Stack trace:
+#0 /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-hook.php(303): Quadmenu_Themes->themes_delete('')
+#1 /home3/kalimatg/public_html/demo/iffco3/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/kalimatg/public_html/demo/iffco3/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/kalimatg/public_html/demo/iffco3/wp-admin/admin-ajax.php(187): do_action('wp_ajax_quadmen...')
+#4 {main}
+  thrown in /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/quadmenu/includes/themes.php on line 152
+[26-Sep-2021 11:39:03 America/Boise] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[04-Sep-2022 12:33:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/wpyii2/wpyii2.php:1) in /home3/kalimatg/public_html/demo/iffco3/wp-includes/http.php on line 493
+[04-Sep-2022 12:33:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/wpyii2/wpyii2.php:1) in /home3/kalimatg/public_html/demo/iffco3/wp-includes/http.php on line 494
+[04-Sep-2022 12:33:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/wpyii2/wpyii2.php:1) in /home3/kalimatg/public_html/demo/iffco3/wp-admin/admin-ajax.php on line 27
+[04-Sep-2022 12:33:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/wpyii2/wpyii2.php:1) in /home3/kalimatg/public_html/demo/iffco3/wp-admin/admin-ajax.php on line 28
+[04-Sep-2022 12:33:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/wpyii2/wpyii2.php:1) in /home3/kalimatg/public_html/demo/iffco3/wp-includes/functions.php on line 6764
+[04-Sep-2022 12:33:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/wpyii2/wpyii2.php:1) in /home3/kalimatg/public_html/demo/iffco3/wp-admin/includes/misc.php on line 1381
+[04-Sep-2022 12:33:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/kalimatg/public_html/demo/iffco3/wp-content/plugins/wpyii2/wpyii2.php:1) in /home3/kalimatg/public_html/demo/iffco3/wp-includes/functions.php on line 6878

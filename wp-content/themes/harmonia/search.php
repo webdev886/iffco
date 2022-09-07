@@ -1,0 +1,61 @@
+<?php 
+global $harmonia_option;
+get_header(); ?>
+
+<div class="section half-height">                
+    <div class="parallax-blog-pages"></div>    
+    <div class="hero-wrap-pages">
+        <div class="container">
+            <div class="twelve columns">
+                <h2><?php printf( __( 'Search results for: %s', 'harmonia' ), get_search_query() ); ?></h2> 
+            </div>
+        </div>
+    </div>                  
+</div>
+
+<div class="section white-background">
+    <div class="blog-pages-wrapper smaller-blog-wrapper">
+
+        <?php if($harmonia_option['blog_layout']=='left'){ ?>       
+            <div class="sidebars">
+                <div class="sidebar-wrap dark-background">
+                    <?php get_sidebar();?>
+                </div>
+            </div>
+        <?php } ?>
+
+        <div class="<?php if($harmonia_option['blog_layout']=='full'){echo 'twelve columns';}else{echo 'width-sidebar-grid';} ?>">
+            <?php if(have_posts()) : 
+                    while (have_posts()) : the_post();
+                        get_template_part( 'content', get_post_format() ) ;   // End the loop.
+                    endwhile;
+                 else: 
+            ?>
+            <h1><?php esc_html_e('Nothing Found Here!', 'harmonia'); ?></h1>            
+        <?php endif; ?>
+        </div>
+
+        <?php if($harmonia_option['blog_layout']=='right'){ ?>       
+            <div class="sidebars">
+                <div class="sidebar-wrap dark-background">
+                    <?php get_sidebar();?>
+                </div>
+            </div>
+        <?php } ?>
+
+    </div>
+</div>
+<div class="clear"></div>
+<div class="section padding-top-bottom-small white-background"> 
+    <div class="container">
+        <div class="twelve columns blog-nav">
+            <nav role="navigation">
+                <ul class="cd-pagination animated-buttons custom-icons">
+                    <?php echo harmonia_pagination(); ?>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+<?php get_footer(); ?>
